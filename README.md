@@ -1,3 +1,3 @@
 # Project
 
-New Full Stack project
+New Full Stack project.
